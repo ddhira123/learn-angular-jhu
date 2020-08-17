@@ -2,4 +2,4 @@
 
 Here is the list of the solutions I made for respective modules:
 
-1. [Module 1](https://github.io/learn-angular-jhu/)
+1. [Module 1](https://ddhira123.github.io/learn-angular-jhu/Module1-solution/)
